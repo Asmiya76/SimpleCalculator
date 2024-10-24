@@ -1,0 +1,58 @@
+.calculation {
+  color: white;
+  font-size: 45px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+
+}
+body{
+  background-color:black;
+  font-family:arial;
+}
+h1{
+  
+  color:white;
+
+}
+div{
+ 
+  margin:0;
+  
+}
+button{
+  padding: 4px 20px 4px 20px;
+  height: 60px;
+  width: 60px;
+  border: none;
+  border-radius:30px;
+  margin-right:5px;
+  font-size:26px;
+}
+.numbers{
+  background-color:rgb(54, 54, 54);
+  color:white;
+  font-size:26px;
+}
+.symbols{
+  background-color:orange;
+  color:white;
+  font-size:26px;
+  
+}
+.equals{
+  background-color:rgb(54, 54, 54);
+  color:white;
+}
+button:hover{
+  cursor: pointer;
+}
+button:active{
+  opacity:0.9;
+}
+.clear{
+  padding:7px;
+  font-family:arial;
+  background-color:rgb(54, 54, 54);
+  color:white;
+  font-size:20px;
+}
